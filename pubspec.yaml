@@ -1,7 +1,7 @@
 name: chat_input
 description: A new Flutter package For Chat Input Field.
 version: 0.0.1
-homepage:
+homepage: https://github.com/tahamv/chat_input
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
